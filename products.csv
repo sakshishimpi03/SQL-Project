@@ -1,0 +1,35 @@
+ProductID,ProductName,Category,Brand,UnitPrice,OrderID
+PROD-101,Smartphone,Electronics,Stellar,8315.04,ORD-50822
+PROD-102,Laptop,Electronics,BrandX,8917.89,ORD-50802
+PROD-103,Wireless Headphones,Electronics,Nova,7734.05,ORD-50042
+PROD-104,Smartwatch,Electronics,BrandX,1244.98,ORD-50194
+PROD-105,4K TV,Electronics,Nova,2787.07,ORD-50516
+PROD-106,Bluetooth Speaker,Electronics,Prestige,4434.02,ORD-50028
+PROD-107,Men's T-Shirt,Apparel,Generic,1794.58,ORD-50699
+PROD-108,Women's Jeans,Apparel,Generic,2976.65,ORD-50252
+PROD-109,Running Shoes,Apparel,Stellar,4408.7,ORD-50440
+PROD-110,Formal Shirt,Apparel,Nova,2583.65,ORD-50687
+PROD-111,Summer Dress,Apparel,Quantum,5873.46,ORD-50279
+PROD-112,Leather Jacket,Apparel,Nova,7541.9,ORD-50023
+PROD-113,Non-Stick Pan,Home & Kitchen,Generic,3371.04,ORD-50143
+PROD-114,Blender,Home & Kitchen,BrandX,561.59,ORD-50870
+PROD-115,Air Fryer,Home & Kitchen,BrandA,2687.11,ORD-50074
+PROD-116,Cotton Bedsheet,Home & Kitchen,BrandA,3770.89,ORD-50450
+PROD-117,Robot Vacuum,Home & Kitchen,BrandX,7283.96,ORD-50627
+PROD-118,Coffee Maker,Home & Kitchen,BrandA,9582.89,ORD-50568
+PROD-119,The Alchemist,Books,Generic,8393.35,ORD-50481
+PROD-120,Sapiens,Books,BrandA,4339.78,ORD-50152
+PROD-121,Atomic Habits,Books,Generic,5056.16,ORD-50646
+PROD-122,Ikigai,Books,Stellar,8988.21,ORD-50997
+PROD-123,The Psychology of Money,Books,Prestige,2033.09,ORD-50227
+PROD-124,A Man Called Ove,Books,Nova,8299.21,ORD-50301
+PROD-125,Yoga Mat,Sports & Outdoors,Stellar,8843.67,ORD-50855
+PROD-126,Dumbbell Set,Sports & Outdoors,Nova,9904.9,ORD-50994
+PROD-127,Camping Tent,Sports & Outdoors,Prestige,9931.85,ORD-50519
+PROD-128,Hiking Backpack,Sports & Outdoors,BrandA,899.25,ORD-50117
+PROD-129,Cricket Bat,Sports & Outdoors,Prestige,6234.96,ORD-50931
+PROD-130,Vitamin C Serum,Beauty & Health,Quantum,1993.33,ORD-50660
+PROD-131,Sunscreen SPF 50,Beauty & Health,Quantum,1624.52,ORD-50062
+PROD-132,Whey Protein,Beauty & Health,Prestige,990.58,ORD-50008
+PROD-133,Organic Shampoo,Beauty & Health,Generic,6443.63,ORD-50762
+PROD-134,Electric Toothbrush,Beauty & Health,Prestige,7900.8,ORD-50024
